@@ -14,3 +14,5 @@ console.log("typeof person.name:", typeof person.name); // string
 /*
     - 객체 타입 선언
 */
+
+// 커밋 연습
